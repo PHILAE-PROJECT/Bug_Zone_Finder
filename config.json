@@ -1,0 +1,19 @@
+[
+{
+"window-monitoring":20,
+"files":"sample_monitoring_log.json",
+"bug_zone_threshold":2.0,
+"Mertics" : {
+	"stats":
+			["cpu_iowait","cpu_user","cpu_iowait","cpu_nice","cpu_softirq","cpu_system","cpu_total","load1","load10","load5","mem_cached","mem_free","mem_used","mem_buffers","uptime","download"],
+		
+	"wifi":
+			["5ghz","2.4ghz","channel"],
+	
+	"speedtest":["ping","upload"]		
+		
+	}
+}
+
+]
+
