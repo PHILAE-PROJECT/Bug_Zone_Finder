@@ -26,10 +26,10 @@ In the config file, some parameters can be set.
 - data files: data files in JSON format should be placed in the "data" folder. Each entry should have the following information:
 ```JSON
     {
-        "timestamp": x,
+        "timestamp": x ,
         "category": "xyz",
         "metric": "abcd",
-        "value": m
+        "value":m
     }    
 ```
 
